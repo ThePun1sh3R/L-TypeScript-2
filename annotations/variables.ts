@@ -64,7 +64,7 @@ for(let i = 0; i < numbers.length; i++) {
 console.log(numberAboveZero);
 
 // funtions 
-const add = (a: number , b: number): number => {
+const add = (a: number , b: number) => {
     return a + b;
 };
 
